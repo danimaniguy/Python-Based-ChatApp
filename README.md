@@ -46,7 +46,8 @@ Customizable: Easily adapt and extend the application to fit your needs.
 
     python "<server_script_path>"
 
-    Output: ![image](https://github.com/user-attachments/assets/4a250a7b-98c6-4337-a1e2-acb5046baecf)
+    Output:
+    ![image](https://github.com/user-attachments/assets/4a250a7b-98c6-4337-a1e2-acb5046baecf)
 
 - Step 2: Find Your IP Address 
 
@@ -73,7 +74,8 @@ Customizable: Easily adapt and extend the application to fit your needs.
 
     Run the client.py script, and it will connect to the hosted server. Now you’re ready to chat!
 
-    Server Will Output: ![image](https://github.com/user-attachments/assets/668869fc-572f-4282-92ed-db916b636411)
+    Server Will Output:
+    ![image](https://github.com/user-attachments/assets/668869fc-572f-4282-92ed-db916b636411)
 
 # Optional
 
